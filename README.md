@@ -5,5 +5,7 @@
 3.	https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows?resource=download
 4.	https://www.kaggle.com/datasets/nilimajauhari/amazon-prime-tv-shows
 # Work distribution for coding part:
-Emir YILMAZ and Senih YILDIRIM -> Data manipulation and visualization
-Melih YUMUŞAKER and burak BULUT -> Machine learning.
+1.	Emir YILMAZ -> Data manipulation and visualization
+2.  Senih YILDIRIM -> Data manipulation and visualization
+3.	Melih YUMUŞAKER -> Machine learning
+4.	Burak BULUT -> Machine learning
